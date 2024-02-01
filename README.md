@@ -1,4 +1,4 @@
-### Hi there! I'm William Luo. [![image](https://github.com/thewillydoo/thewillydoo/assets/48814533/811aa3ec-9c1a-4caf-ba10-d4d462df856c)](https://camo.githubusercontent.com/0c732027af8a28d138e3698181f7be7c9b97d443b4beb9c7ce8ec4cffc6b4767/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966)
+### Hi there! I'm William Luo 👋
 
 
 <!--
