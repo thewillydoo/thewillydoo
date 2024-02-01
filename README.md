@@ -1,4 +1,4 @@
-### Hi there! I'm William Luo 👋
+### Hi there! I'm William 👋
 
 
 <!--
