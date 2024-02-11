@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thewillydoo&layout=compact&theme=shades-of-purple&show_icons=true&border_color=b3b300)](https://github.com/thewillydoo/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thewillydoo&repo=github-readme-stats)](https://github.com/thewillydoo/github-readme-stats)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thewillydoo&repo=github-readme-stats)](https://github.com/thewillydoo/github-readme-stats)
 
 <!--
 **thewillydoo/thewillydoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
