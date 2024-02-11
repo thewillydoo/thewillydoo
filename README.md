@@ -1,6 +1,6 @@
 ### Hi there! I'm William 👋
 
-[![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=thewillydoo&theme=shades-of-purple&show_icons=true&border_color=b3b300)](https://github.com/thewillydoo/github-readme-stats)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thewillydoo&layout=compact&theme=shades-of-purple&show_icons=true&border_color=b3b300)](https://github.com/thewillydoo/github-readme-stats)
 
