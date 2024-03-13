@@ -1,7 +1,7 @@
 ### Hi there! I'm William 👋
 
 # 💫 About Me:
-🔭 I’m currently a 3rd year Computer Engineering student at the University of Alberta and Software Developer for Alberta Health Services. <br>
+🔭 Hi, my name is William Luo, and I am a third year Electrical-Nano Engineering student studying at the University of Alberta. While delving into my studies, I have found a particular interest in the world of fullstack software development, machine learning, and artificial intelligence. <br>
 
 
 ## 🌐 Socials:
