@@ -18,6 +18,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thewillydoo&layout=compact&theme=shades-of-purple&show_icons=true&border_color=b3b300)](https://github.com/thewillydoo/github-readme-stats)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=shades-of-purple)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
