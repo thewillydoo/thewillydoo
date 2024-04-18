@@ -1,4 +1,4 @@
-### Hi there! I'm William 👋
+### Hi there! I'm William 👋 
 
 # 💫 About Me:
 🔭 Hi, my name is William Luo, and I am a third year Computer Engineering student studying at the University of Alberta. While delving into my studies, I have found a particular interest in the world of fullstack software development, machine learning, artificial intelligence, and robotics. <br>
