@@ -3,7 +3,7 @@
 # 💫 About Me:
 🔭 Hi, my name is William Luo, and I am a third year Computer Engineering student studying at the University of Alberta. While delving into my studies, I have found a particular interest in the world of fullstack software development, machine learning, artificial intelligence, and robotics. <br>  
  
-   
+    
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/thewillydoo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-luo-5a477421b/) 
 
