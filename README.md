@@ -1,7 +1,7 @@
 ### Hi there! I'm William 👋 
  
 # 💫 About Me:
-🔭 Hi, my name is William Luo, and I am a fourth year Electrical-Nano Engineering student studying at the University of Alberta. While delving into my studies, I have found a particular interest in the world of fullstack software development, machine learning, artificial intelligence, and robotics. <br>   
+🔭 Hi, my name is William Luo, and I am a fifth year Electrical-Nano Engineering student studying at the University of Alberta. While delving into my studies, I have found a particular interest in the world of fullstack software development, machine learning, artificial intelligence, and robotics. <br>   
    
     
 ## 🌐 Socials:
